@@ -1,2 +1,2 @@
 # moreC
-Just some code by myself .
+Just some of my own code .
